@@ -3,9 +3,6 @@
     <source
       media="(prefers-color-scheme: dark)"
       srcset="./assets/victorhsn-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/victorhsn-light.svg">
     <img
       src="./assets/victorhsn-light.svg"
       alt="victorhsn.com"
