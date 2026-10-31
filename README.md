@@ -1,13 +1,8 @@
 <a href="https://victorhsn.com">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/victorhsn-dark.svg">
-    <img
-      src="./assets/victorhsn-light.svg"
-      alt="victorhsn.com"
-      width="220">
-  </picture>
+  <img
+    src="./assets/victorhsn-logo.svg"
+    alt="victorhsn.com"
+    width="220">
 </a>
 
 # Local TTS Inference Lab
